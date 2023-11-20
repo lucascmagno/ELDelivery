@@ -11,5 +11,6 @@ select * from produto;
 select * from restaurante;
 select * from uf;
 select * from veiculo;
+select * from venda;
 
 truncate endereco;
